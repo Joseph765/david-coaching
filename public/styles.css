@@ -1,0 +1,48 @@
+body {
+  font-family: "Bahnschrift";
+  font-weight: lighter;
+}
+
+#home {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.col1 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.col1 h1 {
+  margin-bottom: 0;
+}
+
+#box {
+  height: 500px;
+  border: 2px solid black;
+  margin-bottom: 5%;
+}
+
+#about {
+  margin: auto;
+  margin-bottom: 5%;
+  text-align: center;
+  width: 40em;
+}
+
+#about p {
+  font-size: 28;
+}
+
+#testimonial-wrapper {
+  text-align: center;
+}
+
+#testimonials {
+  display: flex;
+}
+
+#testimonial img {
+  height: 20em;
+}
